@@ -1,7 +1,7 @@
 import React from 'react'
 import './experiance.css'
 
-const Experiance = () => {
+const Experience = () => {
   return (
     <div>
       
@@ -9,4 +9,4 @@ const Experiance = () => {
   )
 }
 
-export default Experiance
+export default Experience
