@@ -11,42 +11,42 @@ const data = [
   {
     id: 1,
     image: img1,
-    title: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    title: "This is portfolio title",
     github: "https://github.com/harsh-pandey001",
     demo: "https://github.com/harsh-pandey001/myfirstgit",
   },
   {
     id: 2,
     image: img2,
-    title: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    title: "This is portfolio title",
     github: "https://github.com/harsh-pandey001",
     demo: "https://github.com/harsh-pandey001/myfirstgit",
   },
   {
     id: 3,
     image: img3,
-    title: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    title: "This is portfolio title",
     github: "https://github.com/harsh-pandey001",
     demo: "https://github.com/harsh-pandey001/myfirstgit",
   },
   {
     id: 4,
     image: img4,
-    title: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    title: "This is portfolio title",
     github: "https://github.com/harsh-pandey001",
     demo: "https://github.com/harsh-pandey001/myfirstgit",
   },
   {
     id: 5,
     image: img5,
-    title: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    title: "This is portfolio title",
     github: "https://github.com/harsh-pandey001",
     demo: "https://github.com/harsh-pandey001/myfirstgit",
   },
   {
     id: 6,
     image: img6,
-    title: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    title: "This is portfolio title",
     github: "https://github.com/harsh-pandey001",
     demo: "https://github.com/harsh-pandey001/myfirstgit",
   },
@@ -79,7 +79,7 @@ const Portfolio = () => {
                 </a>
               </div>
             </article>
-          );
+          ); 
         })}
       </div>
     </section>
