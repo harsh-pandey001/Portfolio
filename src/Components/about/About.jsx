@@ -18,7 +18,7 @@ const About = () => {
           </div>
         </div>
         <div className="about__content">
-          <div className="about__cards">
+          {/* <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
@@ -34,7 +34,7 @@ const About = () => {
               <h5>Projects</h5>
               <small>80+ completed</small>
             </article>
-          </div>
+          </div> */}
 
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti ab ratione sunt eius accusantium blanditiis sit officiis, architecto sapiente officia fugiat asperiores quia illo rem alias dolore id, esse in.
